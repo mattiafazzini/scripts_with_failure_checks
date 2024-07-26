@@ -1,1 +1,3 @@
-# scripts_with_failure_checks
+# AndroFC
+
+This repo provides direct access to scripts with failure checks.
